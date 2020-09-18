@@ -1,7 +1,7 @@
 # 01 HTML CSS Git: Code Refactor
  
 Project Description
-    - Refactor the CSS and HTMl in such a way that the function of the website remains intact. Only functionally changing a broken link, to make it link properly. At the same time, eliminate redundancies and add semantic HTML elements so that the site is more adherant to accessability standards and easier for the next programmer to read.
+    - Refactor the CSS and HTMl in the file given to me in such a way that the function of the website remains intact. Only functionally changing a broken link, to make it link properly. At the same time, eliminate redundancies and add semantic HTML elements so that the site is more adherant to accessability standards and easier for the next programmer to read. The original file had multiple instances of redundant code classes and used exclusively <div> elements for sectioning.
 
 Deployed Github Pages Link
     -
